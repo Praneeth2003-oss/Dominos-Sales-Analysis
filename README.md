@@ -28,8 +28,3 @@ The results are presented through a **Tableau-style dashboard** that provides a 
 - **SQL** – Used for data querying, aggregation, filtering, grouping, and ranking
 - **Tableau** – Used for data visualization and dashboard creation
 - **GitHub** – Used for project documentation and version control
-
-
-## ![Pizza Sales Dashboard](pizza_sales_tableau_sample_dashboard.jpg)
-
-The dashboard makes it easier to identify **sales trends, popular pizza categories, preferred pizza sizes, and overall business performance**.
